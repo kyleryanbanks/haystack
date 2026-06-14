@@ -1,0 +1,10 @@
+{
+  "name": "haystack-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/haystack-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["haystack"],
+  "// targets": "to see all targets run: nx show project haystack-e2e --web",
+  "targets": {}
+}
